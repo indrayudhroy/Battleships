@@ -1,0 +1,2 @@
+# Battleships
+An implementation in C++ of the well known game of Battleships, with a powerful Artificial Intelligence engine for the computer. This implementation is a full-fledged, feature-rich version of the game, supporting Player vs. Player, in addition to Player vs. Computer. It also contains advanced video-game features, over and above the traditional format of Battleships (optionally), such as "one-time power-ups", and a helpful Artificial Intelligence to guide novice players.
